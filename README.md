@@ -2,7 +2,7 @@
 
 In the world of web development, having a robust backend is crucial for almost any web application. The backend serves as the backbone of the application, handling data storage, user interactions, and complex tasks like calculations and data processing.
 
-Various programming languages are available for backend development, such as Java, C, C++, Go, Python, Ruby, PHP, and more. However, at HYF, we have chosen Node.js as our preferred backend technology for two compelling reasons:
+Various programming languages are available for backend development, such as Java, C, C++, Go, Python, Ruby, PHP, and more. However, we have chosen Node.js as our preferred backend technology for two compelling reasons:
 
 1. Familiarity and Ease of Use: One of the key advantages of Node.js is that it leverages JavaScript, a language that you are already familiar with. which allows you to quickly get started with Node.js, reducing the learning curve and increasing productivity.
 
