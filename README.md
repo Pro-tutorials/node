@@ -8,14 +8,14 @@ Various programming languages are available for backend development, such as Jav
 
 2. Asynchronous Nature and Scalability: Node.js is exceptionally well-suited for building web APIs. Its asynchronous nature enables it to handle high input/output loads efficiently. In other words, it can process multiple lightweight user requests simultaneously, making it ideal for applications with a large number of concurrent users.
 
-## 1.Intro
+## Intro
 
 - [Install node](./1-intro/install-node.md)
 - [Client server model](./1-intro/client-server-model.md)
 - [HTTP and HTML](./1-intro/http-html.md)
 - [Basic web app configuration](./1-intro/basic-web-app-cofiguration.md)
 
-## 2.Basic
+## Basic
 
 - [JavaScript refresher](./2-basic/0-server.js)
 - [What is Node.js](./2-basic/what-is-node.md)
@@ -23,4 +23,4 @@ Various programming languages are available for backend development, such as Jav
 - [Build your server using Nodejs](./2-basic/2-server.js)
 - [Event loop](./2-basic/event-loop.md)
 
-## 3.Debugging
+## Debugging
