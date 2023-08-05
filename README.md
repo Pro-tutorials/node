@@ -17,4 +17,6 @@ Various programming languages are available for backend development, such as Jav
 
 ## Basic
 
--
+- [JavaScript refresher](./2-basic/0-server.js)
+- [file system Sync](./2-basic/1-server.js)
+- [Build your server using Nodejs](./2-basic/2-server.js)
